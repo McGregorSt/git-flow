@@ -83,6 +83,3 @@ let battery = navigator.getBattery().then((battery) => {
 })
 
 console.log('newF1')
-
-
-console.log('newF2')
