@@ -81,3 +81,5 @@ let battery = navigator.getBattery().then((battery) => {
   console.log(`battery level is ${battery.level * 100}%`)
   console.log(battery)
 })
+
+console.log('feature/batteryMgmt')
